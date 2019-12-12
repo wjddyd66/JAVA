@@ -15,5 +15,5 @@
 13. Thread (Thread)
 14. Network (Network)
 
-**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/JAVA>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/categories/#java>**  
 연락처: wjddyd66@naver.com  
